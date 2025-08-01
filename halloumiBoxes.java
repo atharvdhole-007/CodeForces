@@ -1,5 +1,3 @@
-package CodeForces;
-
 import java.util.*;
 
 public class halloumiBoxes {

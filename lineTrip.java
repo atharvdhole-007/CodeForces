@@ -1,5 +1,3 @@
-package CodeForces;
-
 import java.util.Scanner;
 
 public class lineTrip {
